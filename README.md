@@ -1,1 +1,1 @@
-The questions can be seen in the uploaded PDF. All the codes are written in Python.
+This repository contains the codes for some cryptrograhic algorithms. All codes are written in Python. Questions are also uploaded in a PDF file.
