@@ -1,1 +1,1 @@
-This repository contains the codes for some cryptrograhic algorithms. All codes are written in Python. Questions are also uploaded in a PDF file.
+This repository contains the codes for some cryptrograhic algorithms. All codes are written in Python. Questions are also uploaded in a PDF file. This repository also contains all the project files of "INTEGRITY CHECKER".
